@@ -42,10 +42,6 @@ class Array(object):
         self.items[index] = new_item
 
 
-"""
-Code used in the shell to create an array
-instance and methods.
-"""
 
 
 
